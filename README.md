@@ -10,3 +10,11 @@
 [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/chasgames/MooMonitor)](https://github.com/chasgames/MooMonitor)
 
 ### In the making...
+
+
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+
+
+![approved-by-jersey-cows](https://user-images.githubusercontent.com/9719722/217979020-142934a4-dfe2-4648-807a-b7d7feeb60fa.svg)
