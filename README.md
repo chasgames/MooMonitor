@@ -6,7 +6,7 @@
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/nanomsg/mangos)
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
+[![GoReportCard example](https://goreportcard.com/badge/github.com/chasgames/MooMonitor)](https://goreportcard.com/report/github.com/chasgames/MooMonitor)
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/chasgames/MooMonitor)](https://github.com/chasgames/MooMonitor)
 
 ### In the making...
