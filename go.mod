@@ -1,4 +1,4 @@
-module moomonitor
+module moomonitor.je
 
 go 1.19
 

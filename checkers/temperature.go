@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/shirou/gopsutil/v3/host"
-	common "moomonitor/common"
+	common "moomonitor.je/common"
 )
 
 func CheckTemp() {
@@ -15,7 +15,7 @@ func CheckTemp() {
 	var result string = ""
 	var row string = ""
 	tripped := false
-	
+
 	// Loop over all sensors
 	for _, t := range t {
 		row = fmt.Sprint(t.SensorKey, ": ", t.Temperature, "°C \n")
