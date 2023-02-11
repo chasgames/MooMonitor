@@ -1,18 +1,16 @@
 package main
 
 import (
-    "fmt"
-	"time"
+	"fmt"
 	"log"
 	"moomonitor/checkers"
 	"moomonitor/common"
+	"time"
 
 	//"github.com/shirou/gopsutil/v3/host"
 	//"github.com/shirou/gopsutil/v3/mem"
 	"github.com/joho/godotenv"
 )
-
-
 
 func main() {
 
@@ -43,4 +41,3 @@ func main() {
 	}
 
 }
-
