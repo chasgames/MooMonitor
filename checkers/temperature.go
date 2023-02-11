@@ -12,11 +12,10 @@ func CheckTemp() {
 	if err != nil {
 		fmt.Println(err)
 	}
-	var result string
-	var row string
+	var result string = ""
+	var row string = ""
 	tripped := false
-	//clear results so they don't build up
-	result, row = "", ""
+	
 	// Loop over all sensors
 	for _, t := range t {
 		row = fmt.Sprint(t.SensorKey, ": ", t.Temperature, "°C \n")
