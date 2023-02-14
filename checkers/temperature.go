@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/shirou/gopsutil/v3/host"
-	common "moomonitor.je/common"
+	common "github.com/chasgames/MooMonitor/common"
 )
 
 func CheckTemp() {

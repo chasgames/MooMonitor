@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
-	"moomonitor.je/checkers"
-	"moomonitor.je/common"
+	checkers "github.com/chasgames/MooMonitor/checkers"
+	common "github.com/chasgames/MooMonitor/common"
 	"time"
 
 	//"github.com/shirou/gopsutil/v3/host"
