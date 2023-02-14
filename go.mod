@@ -1,4 +1,4 @@
-module moomonitor.je
+module github.com/chasgames/MooMonitor
 
 go 1.19
 
